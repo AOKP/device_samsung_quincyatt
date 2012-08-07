@@ -29,7 +29,7 @@
 TARGET_BOOTLOADER_BOARD_NAME := SGH-I717
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := SGH-I717,quincyatt
+TARGET_OTA_ASSERT_DEVICE := SGH-I717,i717,sghi717,quincyatt
 
 # Kernel
 TARGET_KERNEL_SOURCE        := kernel/samsung/msm8660-common
