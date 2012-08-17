@@ -28,3 +28,7 @@ lib/libpn544_fw.so
 etc/wifi/nvram_net.txt_murata
 etc/wifi/nvram_mfg.txt_murata
 
+# Other
+lib/libmm-color-convertor.so
+lib/libDivxDrm.so
+bin/macloader
