@@ -25,6 +25,8 @@
 PRODUCT_PACKAGES := \
     Torch
 
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/
+
 BOARD_HAVE_NFC := true
 
 # Inherit from those products. Most specific first.
